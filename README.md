@@ -1,4 +1,4 @@
-jetty-redis-json-sessions
+ jetty-session-redis-json-readonly
 ===============================
 
 # Description
